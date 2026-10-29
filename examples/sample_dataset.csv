@@ -1,0 +1,4 @@
+subject_id,full_name,email,phone,ssn,credit_card,created_at
+cust-001,Alex Rivera,alex.rivera@example.com,415-555-0132,900-80-1234,4111-1111-1111-1111,2023-01-15
+cust-002,Priya Nair,priya.nair@example.com,415-555-0178,900-80-5678,5555-5555-5555-4444,2025-06-01
+cust-003,Sam Ortiz,sam.ortiz@example.com,415-555-0199,900-80-9012,3782-822463-10005,2026-03-10
